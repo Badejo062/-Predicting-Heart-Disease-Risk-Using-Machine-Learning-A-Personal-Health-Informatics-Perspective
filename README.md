@@ -91,3 +91,5 @@ Krittanawong, C., Johnson, K. W., Rosenson, R. S., Wang, Z., Aydar, M., & Naraya
 Pedregosa, F., et al. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830.
 
 Rajkomar, A., Dean, J., & Kohane, I. (2019). Machine learning in medicine. New England Journal of Medicine, 380(14), 1347–1358.
+
+Link:- https://github.com/Badejo062/-Predicting-Heart-Disease-Risk-Using-Machine-Learning-A-Personal-Health-Informatics-Perspective
